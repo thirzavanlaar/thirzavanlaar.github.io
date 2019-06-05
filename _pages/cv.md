@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Meterology. Unversity of Cologne 
+* MSc Earth and Environment, specialisation: meteorology. Wageningen University, graduated in 2014
+* Bsc Soil, Water, Atmosphere. Wageningen University, graduated in 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2014 - March 2015: Air quality consultant, Buro Blauw, Wageningen
   
-Skills
+* March-July 2014: Team member Functional Management at Van Hall Larenstein, School of Applied Science, Velp
+  
+* Sept/Oct 2011 and 2012: Student Assistant for course 'Programming in Python'
+  
+  
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dutch
+  * Native language
+* English
+  * Level C1/C2
+* Spanish
+  * Level B1
+* German
+  * Level B2
 
 Publications
 ======
@@ -54,6 +53,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
