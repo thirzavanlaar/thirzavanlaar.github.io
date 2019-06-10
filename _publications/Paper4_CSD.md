@@ -1,5 +1,6 @@
 ---
 title: "Investigating the Diurnal Evolution of the Cloud Size Distribution of Continental Cumulus Convection Using Multiday LES"
+Author: Thirza W. van Laar, Vera Schemann and Roel A.J. Neggers
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Abstract hier, of is dat te veel?'
