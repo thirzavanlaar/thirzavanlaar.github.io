@@ -2,7 +2,7 @@
 title: "On the size dependence of cumulus cloud spacing"
 Author: 'Thirza W. van Laar and Roel A.J. Neggers'
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-5
+permalink: /publication/Paper5_NNS
 <!--excerpt: 'Abstract hier, of is dat te veel?'-->
 date: Submitted
 <!--DOI: '10.1175/JAS-D-18-0084.1'-->
